@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Adrian Marshal
-- 👀 
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ...here
+# Hi there 👋 I'm Marshal
 
-<!---
-ADRIANMARSHAL/ADRIANMARSHAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5dWYwY2VjZ3V0c2V6dGx4Z2R6eGJ5dWZxbnR2eGZ6dWZ6eGZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300">
+</p>
+
+## 🔥 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=ADRIANMARSHAL&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANMARSHAL&layout=compact&theme=radical)  
+
+## 🐍 Contribution Snake  
+![Snake Animation](https://github.com/ADRIANMARSHAL/ADRIANMARSHAL/blob/output/github-contribution-grid-snake.svg)  
