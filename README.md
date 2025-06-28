@@ -5,8 +5,8 @@
 </p>
 
 ## 🔥 GitHub Stats  
-(https://streak-stats.demolab.com?user=ADRIANMARSHAL&theme=dark&hide_border=true)  
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANMARSHAL&layout=compact&theme=radical)  
+[](https://streak-stats.demolab.com?user=ADRIANMARSHAL&theme=dark&hide_border=true)  
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANMARSHAL&layout=compact&theme=radical)  
 
 ## 🐍 Contribution Snake  
-(https://github.com/ADRIANMARSHAL/ADRIANMARSHAL/blob/output/github-contribution-grid-snake.svg)  
+[](https://github.com/ADRIANMARSHAL/ADRIANMARSHAL/blob/output/github-contribution-grid-snake.svg)  
